@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/exception
+END
+ParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/exception/ParameterException.java
+END
+AbstractException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/exception/AbstractException.java
+END

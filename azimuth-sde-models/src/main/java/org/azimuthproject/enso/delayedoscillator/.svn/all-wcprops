@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/enso/delayedoscillator
+END
+Stepper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/enso/delayedoscillator/Stepper.java
+END
+IForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/enso/delayedoscillator/IForce.java
+END
+Runner.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/enso/delayedoscillator/Runner.java
+END
+Force.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/enso/delayedoscillator/Force.java
+END

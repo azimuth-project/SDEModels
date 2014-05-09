@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/stochasticresonance/bistable
+END
+Stepper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/stochasticresonance/bistable/Stepper.java
+END
+IForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/stochasticresonance/bistable/IForce.java
+END
+Runner.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/stochasticresonance/bistable/Runner.java
+END
+Force.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/stochasticresonance/bistable/Force.java
+END

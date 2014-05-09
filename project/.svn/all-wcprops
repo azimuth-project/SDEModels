@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/89/trunk/Java/project
+END
+AzimuthBuild.scala
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/Java/project/AzimuthBuild.scala
+END
+plugins.sbt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/85/trunk/Java/project/plugins.sbt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/85/trunk/Java/project/build.properties
+END

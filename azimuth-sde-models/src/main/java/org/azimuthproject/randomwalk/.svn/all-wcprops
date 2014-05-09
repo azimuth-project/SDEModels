@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/randomwalk
+END
+PolarRandomWalkStepper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/randomwalk/PolarRandomWalkStepper.java
+END
+CartesianRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/randomwalk/CartesianRunner.java
+END
+PolarRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/randomwalk/PolarRunner.java
+END
+CartesianRandomWalkStepper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/84/trunk/Java/azimuth-sde-models/src/main/java/org/azimuthproject/randomwalk/CartesianRandomWalkStepper.java
+END

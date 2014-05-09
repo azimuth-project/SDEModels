@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/histogram
+END
+HistogramPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/histogram/HistogramPrinter.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/histogram/Interval.java
+END
+SimpleHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/84/trunk/Java/azimuth-common/src/main/java/org/azimuthproject/histogram/SimpleHistogram.java
+END
