@@ -1,16 +1,11 @@
 language: 
   java 
 
-ghc: 7.8.2
-git: 
-  submodules: false
-
 install:
-  - "cabal install --dry-run -v3"
-  - "travis_retry cabal install --force-reinstalls --only-dependencies"
+  - mvn clean install
+
 script:
   - git clone https://github.com/jimstutt/Bistability.git
-  - cabal install . --jobs=1
 
 notifications:
   email:
