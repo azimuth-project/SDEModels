@@ -1,0 +1,19 @@
+language: 
+  haskell
+
+ghc: 7.8.2
+git: 
+  submodules: false
+
+install:
+  - "cabal install --dry-run -v3"
+  - "travis_retry cabal install --force-reinstalls --only-dependencies"
+script:
+  - git clone https://github.com/jimstutt/Bistability.git
+  - cabal install . --jobs=1
+
+notifications:
+  email:
+    recipients: jims@stuttard.org
+    on_success: change
+    on_failure: change
